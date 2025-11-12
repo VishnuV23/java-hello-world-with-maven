@@ -39,7 +39,7 @@
                             <transformers>
                                 <transformer
                                     implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>hello.Kyhal-hai</mainClass>
+                                    <mainClass>hello.worldi</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
